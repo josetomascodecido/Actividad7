@@ -1,0 +1,48 @@
+body{
+	text-align: center;
+}
+
+#tittle{
+	color:white;
+}
+
+.navega {
+	float: right;
+}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000; } 
+.mineul{
+	float:right;
+}
+.titulolatam{
+	color:white;
+	
+	font-size: 50px;
+	font-weight: 100;
+
+}
+.parrafo{
+	color:white;
+}
+.logolatam{
+	max-width: 200px;
+	float: left;
+}
+.ruleta{
+	padding-bottom: 50px;
+
+}
+.final{
+	text-align: left;
+}
+.last{
+	background-color: black;
+	color:lightgrey;
+	text-align: left;
+	padding: 10px;
+}
